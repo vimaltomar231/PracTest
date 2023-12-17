@@ -10,7 +10,8 @@ namespace PracTestgi
     {
         static void Main(string[] args)
         {
-               Console .writeline("Hello");
+               Console.WriteLine("Hello");
+            Console.WriteLine("hi");
         }
     }
 }
