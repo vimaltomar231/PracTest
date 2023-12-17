@@ -12,6 +12,7 @@ namespace PracTestgi
         {
                Console.WriteLine("Hello");
             Console.WriteLine("hi");
+            Console.WriteLine("jgk");
         }
     }
 }
