@@ -10,7 +10,7 @@ namespace PracTestgi
     {
         static void Main(string[] args)
         {
-
+               Console .writeline("Hello");
         }
     }
 }
