@@ -7,4 +7,5 @@ Scenario: s1
 	Given g1
 	When w1
 	Then t1
+        When gh
 	
